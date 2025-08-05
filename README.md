@@ -1,45 +1,52 @@
 <h1 align="center">Hi 👋, I'm Rakesh Perumalapalli</h1>
-<h3 align="center">A Full-Stack Developer passionate about building modern websites and mobile apps</h3>
+<h3 align="center">A passionate Full-Stack Developer building modern websites & mobile apps</h3>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-- **Frontend:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+#### Frontend:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+</p>
 
-- **Frameworks/Libraries:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=fff)
+#### Backend & Databases:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
-
-- **Databases:**  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-
-- **Auth & API:**  
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=fff)
-  ![REST APIs](https://img.shields.io/badge/-REST%20API-00599C?style=flat)
-
-- **Mobile:**  
-  ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-
----
-
-### 📫 Contact Me
-
-- **📧 Email:** rakeshperumalapalli1@gmail.com  
-- **🔗 LinkedIn:** [linkedin.com/in/rakesh-perumalapalli725](https://www.linkedin.com/in/rakesh-perumalapalli725/)
+#### Tools & Others:
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
+### 🌐 Connect With Me
 
-> I love turning complex problems into simple, beautiful, and intuitive solutions 🚀
+- 📧 **rakeshperumalapalli1@gmail.com**
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/rakesh-perumalapalli725/)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" alt="rakesh's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakesh-2507&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-2507&layout=compact&theme=tokyonight" />
+</p>
