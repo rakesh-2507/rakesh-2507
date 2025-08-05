@@ -3,8 +3,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" alt="rakesh's GitHub stats" />
   <br/>
