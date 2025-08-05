@@ -13,6 +13,36 @@
 
 ---
 
+## 🚀 Projects
+
+### 🏢 [Akshi](#)
+A full-featured digital apartment management app built using React Native and Node.js with PostgreSQL. Features include visitor management with QR, rent payment, chat/support, notifications, lease documents, and a pedometer-based fitness leaderboard.
+
+🔗 [View Demo (Coming Soon)](#)
+
+---
+
+### 🏠 [AnyProp.in](https://anyprop.in)
+A modern real estate property listing platform for buying, selling, and renting properties. Built with React, Node.js, and PostgreSQL, it offers clean UI, powerful filters, and role-based access for agents and users.
+
+🔗 [Visit Site](https://anyprop.in)
+
+---
+
+### 🏞️ [Urban Rise Sky Habitat](https://www.urbanriseskyhabitat.life/)
+Marketing website for premium villa plots. Responsive landing page with elegant design, showcasing project highlights, location map, gallery, and contact forms.
+
+🔗 [Visit Site](https://www.urbanriseskyhabitat.life/)
+
+---
+
+### 🏢 [OnlyRoof.in](https://onlyroof.in)
+At ONLYROOF.in, we help businesses transform with tailored strategies, operational excellence, and scalable solutions — all under one roof. Registered under SAC Code 998311, we provide GST-compliant, government-recognized service.
+
+🔗 [Visit Site](https://onlyroof.in)
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Frontend:
