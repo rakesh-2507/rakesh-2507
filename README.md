@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Rakesh P
 
-<!--
-**rakesh-2507/rakesh-2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A full-stack developer passionate about building modern web and mobile apps.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- 
+- ⚛️ React Native, React.js
+- 🧠 Node.js, Express.js
+- 🗄️ PostgreSQL, MongoDB
+- 🧪 JWT, REST APIs, Expo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 📧 rakeshperumalapalli1@gmail.com
+- 💼 [LinkedIn]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/rakesh-perumalapalli-567a13298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 
