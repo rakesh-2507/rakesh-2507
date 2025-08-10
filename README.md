@@ -16,7 +16,7 @@
 ## 🚀 Projects
 
 ### 🏢 [Akshi](#)
-A full-featured digital apartment management app built using React Native and Node.js with PostgreSQL. Features include visitor management with QR, rent payment, chat/support, notifications, lease documents, and a pedometer-based fitness leaderboard.
+A full-featured digital apartment management app built using React Native, Expo and Node.js with PostgreSQL. Features include visitor management with QR, rent payment, chat/support, notifications, lease documents, and a pedometer-based fitness leaderboard.
 
 🔗 [View Demo (Coming Soon)](#)
 
