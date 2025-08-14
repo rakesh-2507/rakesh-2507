@@ -22,7 +22,7 @@ A full-featured digital apartment management app built using React Native, Expo 
 
 ---
 
-### 🏠 [AnyProp.in](https://anyprop.in)
+## 🏠 [AnyProp.in](https://anyprop.in)
 A modern real estate property listing platform for buying, selling, and renting properties. Built with React, Node.js, and PostgreSQL, it offers clean UI, powerful filters, and role-based access for agents and users.
 
 🔗 [Visit Site](https://anyprop.in)
