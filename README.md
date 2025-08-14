@@ -76,7 +76,7 @@ At ONLYROOF.in, we help businesses transform with tailored strategies, operation
 
 ### 🌐 Connect With Me
 
-- 📧 **rakeshperumalapalli1@gmail.com**
+- 📧 ***rakeshperumalapalli1@gmail.com***
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/rakesh-perumalapalli725/)
 
 ---
