@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align=" center ">
   <img src="https://github-readme-stats.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" alt="rakesh's GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rakesh-2507&theme=tokyonight" />
