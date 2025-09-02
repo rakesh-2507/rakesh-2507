@@ -6,7 +6,7 @@
 <p align=" center ">
   <img src="https://github-readme-stats.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" alt="rakesh's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakesh-2507&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rakesh-2507&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-2507&layout=compact&theme=tokyonight" />
 </p>
