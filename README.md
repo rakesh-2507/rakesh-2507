@@ -3,12 +3,12 @@
 
 ---
 
-<p align=" center ">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" alt="rakesh's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=rakesh-2507&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rakesh-2507&theme=tokyonight" alt="streak stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-2507&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-2507&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
