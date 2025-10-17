@@ -1,7 +1,6 @@
 <h1 align="center">Hii 👋, I'm Rakesh Perumalapalli</h1>
 <h3 align="center">A passionate Full-Stack Developer building modern websites & mobile apps</h3>
 
-
 ---
 
 
