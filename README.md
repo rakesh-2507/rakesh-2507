@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-2507&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
-
 ---
 
 #### 🚀 Projects
