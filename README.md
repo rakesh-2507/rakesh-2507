@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Rakesh Perumalapalli</h1>
 <h3 align="center">A passionate Full-Stack Developer building modern websites & mobile apps</h3>
 
----
+----
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakesh-2507&show_icons=true&theme=tokyonight" />
